@@ -1,0 +1,6 @@
+[submodule "jose"]
+	path = jose
+	url = https://github.com/RafaJ06/Challenge-Amigo-Secreto.git
+[submodule "Challenges/amigo_secreto/challenge-amigo-secreto"]
+	path = Challenges/amigo_secreto/challenge-amigo-secreto
+	url = https://github.com/RafaJ06/Challenge-Amigo-Secreto.git
